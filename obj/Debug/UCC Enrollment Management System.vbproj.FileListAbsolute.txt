@@ -1,0 +1,52 @@
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\UCC Enrollment Management System.exe.config
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\UCC Enrollment Management System.exe.manifest
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\UCC Enrollment Management System.application
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\UCC Enrollment Management System.exe
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\UCC Enrollment Management System.pdb
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\UCC Enrollment Management System.xml
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\AdvancedDataGridView.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\AForge.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\AForge.Video.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\Guna.UI2.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\MetroFramework.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\AdvancedDataGridView.xml
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\AForge.xml
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\AForge.Video.xml
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.vbproj.AssemblyReference.cache
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.vbproj.ResolveComReference.cache
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.AboutMe.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.CapturePicture.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.ChangeInfo.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.ChangePassword.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.EnrollmentData.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.LoginGuide.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.LoginHistory.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.LoginHistoryGuide.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.StudentEnrollmentGuide.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.StudentSubject.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.ForgotPassword.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.GenarateID.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.LoginForm.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.MainForm.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.Resources.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.TeacherData.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.TeacherDataGuide.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.UserInfo.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.PrintID.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.StudentEnrollment.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.StudentRegistered.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\SchoolManagementSystem.StudentRequirements.resources
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.vbproj.GenerateResource.cache
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.vbproj.CoreCompileInputs.cache
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.exe.manifest
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.application
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.vbproj.CopyComplete
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.exe
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.xml
+C:\Users\jkrbn\Downloads\UCC-Enrollment-Management-System\obj\Debug\UCC Enrollment Management System.pdb
